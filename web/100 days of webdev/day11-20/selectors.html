@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS selectors</title>
+    <style>
+         /* element selector */
+         div{
+             background-color: red; 
+            }
+            /* universal selector */
+            *{margin:20;
+            padding:40;
+            }
+        /* class selector */
+        .green{
+            background-color:green;
+        }
+        /* id selector */
+        #blue{
+            background-color: blue;
+        }
+        /* child selectors */
+        div > p{
+            color:red;
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+    <!-- html mysql php -->
+    <div>
+        element selectors normal
+        <p> this is the working of child selectors</p>   
+    </div>
+    <div class="green">
+        class selector
+    </div>
+    <div id="blue">
+        ID selector    
+    </div>
+</body>
+</html>

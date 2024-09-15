@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .ball{
+            justify-content: center;
+            border-radius: 50%;
+            width: 50px;
+            background-color: red;
+            height: 50px;
+            /* margin: 100px; */
+            border: black solid 5px;
+            animation: bounce 1s infinite alternate-reverse linear;
+        }
+        @keyframes bounce{
+            0%{
+                transform: translate3d(0,0,0);
+                margin-top: 100px;
+            }
+
+            25%{
+                transform: translate3d(50px,0,0);
+                background-color: blue;
+                margin:0px;
+            }
+            50%{
+                transform: translate3d(100px,0,0);
+                background-color: black;
+                margin-top: 100px;
+            }
+            75%{
+                transform: translate3d(150px,0,0);
+                background-color: yellow;
+            }
+            100%{
+                transform: translate3d(200px,0,0);
+                background-color: green;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="ball"></div>
+    <iframe class="hub" src="C:\Users\nites\OneDrive\Documents\codes\web\class10\formforweb.html" frameborder="0"></iframe>
+</body>
+</html>

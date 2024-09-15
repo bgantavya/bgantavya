@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+         :root{
+            --bgcolor:rgb(255, 195, 139);
+            --color:black;
+            --headtext-color:white;
+            --headtext-bgcolor:green;
+        }
+        nav{
+            padding: 10px;
+            background-color: var(--headtext-bgcolor);
+        }
+        ul li{
+            list-style: none;
+            display:inline;
+            margin: 15px;
+        }
+        ul li a{
+            color: var(--headtext-color);
+            text-decoration: none;
+        }
+        .nav{
+            position:sticky;
+        }
+        .box{
+            width:160px;
+            height:200px;
+            margin-right: 200px;
+            border:2px solid black;
+            border-radius: 10px;
+
+        }
+        *{
+            padding: 0px;
+            margin: 0px;
+        }
+        .bodytext{
+            display: flex;
+        }
+        *{
+            padding-top: 0px;
+            padding-left: 0px;
+            padding-right: 0px;
+            
+        }
+        div{
+            padding:0px;
+            margin:0px;
+        }
+        .card{
+            margin:7px;
+            padding:5px;
+            background-color: rgb(207, 207, 207);
+            width: 360px;
+            height:540px;
+            border-radius:12px
+        }
+        .image{
+            padding:10px
+        }
+        .image img{
+            border-radius:12px
+
+        }
+        .capsules{
+            margin-left: 15px;
+        }
+        .body{
+            display :flex; 
+            padding:100px;
+        }
+
+        
+        span{
+            font-size: 12px;
+            margin:5px;
+            padding:3px;
+            border: solid grey 2px;
+            border-radius: 12px
+        }
+        .content{
+            margin:0px;
+            padding: 12px;
+            padding-top: 0px;
+            padding-bottom: 0px;
+        }
+        /* .content h2{
+            padding:-2px;
+        }
+        .content p{
+            padding:-2px;
+            margin:0px;
+            font-size:12px;
+        } */
+        .button{
+            text-align: center;
+        }
+        .button button{
+            padding:5px 15px;
+            color:rgb(0, 0, 255);
+            font-size:16px;
+            border:none ;
+            border-radius: 10px;
+            background-color: rgba(132, 185, 235, 0.76);
+        }
+        </style>
+</head>
+<body bgcolor="navy blue" >
+    <header>
+        <div class="nav">
+            <nav>
+                <ul>
+                    <li><a href="/">HOME</a></li>
+                    <lI><a href="/">ABOUT US</a></li>
+                    <li><a href="/">SERVICES</a></li>
+                    <li><a href="/">CONTACT US</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="bodytext">
+        <div class="box">box 1</div>
+        <div class="box">box 2</div>
+
+    </div>
+    <div style="display: block;"   class="card">
+       <div class="image">
+           <img width="340" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Lake_mapourika_NZ.jpeg"> 
+       </div> 
+       <div class="capsules">
+
+           <span> Nature </span>
+       <span> Lake </span>
+       <span> Photography </span>
+    </div>
+    <div class="content">
+        <h2>ex-3 design</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit eveniet a consequuntur illo cumque sit in officia? Vel itaque molestiae alias repellendus magnam nulla aperiam!</p>
+
+    </div>
+    <div class="button">
+        <button>Read more</button>
+    </div>
+    </div>
+    <div class="card">
+        <div class="image">
+            <img width="340" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Lake_mapourika_NZ.jpeg"> 
+        </div> 
+        <div class="capsules">
+ 
+            <span> Nature </span>
+        <span> Lake </span>
+        <span> Photography </span>
+     </div>
+     <div class="content">
+         <h2>ex-3 design</h2>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit eveniet a consequuntur illo cumque sit in officia? Vel itaque molestiae alias repellendus magnam nulla aperiam!</p>
+ 
+     </div>
+     <div class="button">
+         <button>Read more</button>
+     </div>
+     </div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Specificity and cascade</title>
+    <style>
+        h1 {
+            color: red !important;
+        }
+
+        .yellow {
+            color: yellow;
+        }
+
+        .purple {
+            color: rgb(192, 26, 192);
+        }
+    </style>
+</head>
+
+<body>
+    <h1 class="yellow purple">this is how cascading algorithm works i pasted three colors but the last one got selected
+        <br>Hierchy of selectors<br><br>inline style &gt ID selector &gt class or attribute selector &gt element
+        selector &gt universal selectors
+        <br> then position of selector matters the last one is considered
+        <br>!important tag can bypass inline selectors
+    </h1>
+</body>
+
+</html>
