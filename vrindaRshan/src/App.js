@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
 import map from './map.jpg';
 import ImageMap from './imageMap';  
@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1 color='red'>Vrinda-Arshan</h1>
+        <h1 color='red'>Vrind-Arshan</h1>
         <h3>
           step1: choose location
         </h3>
@@ -38,7 +38,10 @@ export default App;
 
 
 
-// // import logo from './logo.svg';
+// import logo from './logo.svg';
+
+
+
 // import './App.css';
 // import map from './map.jpg';
 // import ImageMap from './imageMap';
