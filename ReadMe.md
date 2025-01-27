@@ -50,7 +50,7 @@ I'm also crafting **NutriNudge**, a full-stack web app that's like your personal
 - 💬 Ask me about: Python, Web Development, AI, or the best memes in the coding world.
 - 👯 I’m looking to collaborate on projects that could use a mix of tech and humor. 
 - 🤔 I’m looking for help with: Finding the perfect GIF for every commit.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gantavya-bansal) | [Email Me]((mailto:Gantavyaoo@gmail.com?subject=Inquiry%20from%20GitHub)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gantavya-bansal) | [Email Me](mailto:Gantavyaoo@gmail.com?subject=Inquiry%20from%20GitHub)
 
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
