@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "codes_ecdc2d0b"
+        },
+        {
+            "type": "java",
             "name": "str1",
             "request": "launch",
             "mainClass": "str1",
