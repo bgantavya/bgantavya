@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 // binary search index value finder
-public class binarySearch{
+public class BinarySearch{
     public static void main(String[] args) {
         int[] nums = {1,2,2,3,4,5,6,76,77,78,81,734,989,2223};
         // int[] nums = {334344,10000,9876,8000,7464,233,120,67,47,45,34};
