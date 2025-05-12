@@ -1,0 +1,19 @@
+{% extends 'core/base.html' %}
+{%block title%}Welcome {%endblock%}
+{% block content %}
+    <div>
+        <h1>
+            Newest items here
+        </h1>
+        <div>
+            {% for item in items %}
+                <div>
+                    <a href="">
+
+                        {{ item.name }}
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>    
+{% endblock %}

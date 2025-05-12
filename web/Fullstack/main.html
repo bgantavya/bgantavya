@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        span{
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div style="width: 300px;color: white;background-color: black;height: 100px;">
+        <div id="stats">
+            XP: <span id="#xptext">0</span>
+            Health: <span id="healthtext">0</span>
+            Gold: <span id="goldtext">20</span>
+        </div>
+        <button id="b1">1</button>
+        <button id="b2">1</button>
+        <button id="b3">1</button>
+        <div id="text"></div>
+
+
+    </div>
+    <script>
+        let xp = 0;
+        let health = 100;
+        let gold = 20;
+        let currentweapon;
+        let inventory = ['stick','gun','axe'];
+        // const text = document.querySelector("#text");
+        const b1 = document.querySelector("#b1");
+        const b2 = document.querySelector("#b2");
+        const b3 = document.querySelector("#b3");
+        const xptext = document.querySelector("#xptext");
+        const healttext = document.querySelector("#healttext");
+        const goldtext = document.querySelector("#goldtext");
+        const text = document.querySelector("#text");
+        gotohome()
+        function gotohome(){
+            text.inntertext = "Dashboard"
+            b1.innerText = "store"
+            b2.innerText = "go to cave"
+            b3.innerText = "sleep"
+            b1.onclick = gotostore 
+            b2.onclick = gotocave
+            b3.onclick = gotosleep
+        }
+        function gotocave(){
+            text.innerText = "in the cave now."
+        }
+        function gotosleep(){
+            text.innerText = "Zrrrr."
+        }
+        function gotostore(){
+            text.innerText = "store opened."
+            b1.innerText = "exit"
+            b2.innerText = "buy gold"
+            b3.innerText = "buy weapon"
+            b1.onclick = gotohome
+            b2.onclick = boughtgold
+            b3.onclick = boughtweapon
+            // b1.onclick = 
+        }
+
+
+    </script>
+</body>
+</html>

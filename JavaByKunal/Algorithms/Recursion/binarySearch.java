@@ -13,6 +13,6 @@ public class binarySearch {
         if(nums[mid] < target) sort(low, mid, nums, target);
         else if(nums[mid] > target) sort(low, mid, nums, target);
         else return mid;
-        return ;
+        return 0;
     }
 }
