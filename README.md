@@ -33,8 +33,6 @@
     </tr>
 </table>
 
----
-
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
@@ -84,8 +82,6 @@
         <img src="https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
----
-
 <!-- About -->
 <h2 align="center">👋 About Me</h2>
 <p align="center">
@@ -100,8 +96,6 @@
     <li>🚀 <b>Full-Stack Builder</b>: Next.js, NestJS, PostgreSQL, GenAI.</li>
 </ul>
 </p>
-
----
 
 <!-- Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
@@ -119,8 +113,6 @@
     <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/>
 </p>
 
----
-
 <!-- GitHub Stats & Trophies -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -129,8 +121,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=bgantavya&theme=transparent&show_icons=true&hide_border=true&count_private=true" width="55%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgantavya&theme=transparent&hide_border=true&layout=compact" width="42%" />
 </p>
-
----
 
 <h2 align="center">🎯 Let's Build the Future!</h2>
 <p align="center">
