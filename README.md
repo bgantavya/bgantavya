@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bgantavya&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats" width="80%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bgantavya&theme=transparent&hide_border=true&short_numbers=true&mode=weekly" width="80%" />
 </p>
 <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> Gantavya Bansal
