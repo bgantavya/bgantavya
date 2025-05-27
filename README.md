@@ -2,6 +2,9 @@
 ---
 
 <p align="center">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3202506" style='border:none' width="80%" />
+</p>
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=bgantavya&theme=transparent&hide_border=true&short_numbers=true&mode=weekly" width="80%" />
 </p>
 <h1 align="center">
