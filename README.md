@@ -1,7 +1,22 @@
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="miiaH5N-skq5mbEKPlyaSX-IRtDCW6wt_SnIjKbsYYY">
+    <meta name="description" content="Gantavya Bansal - MERN & Gen AI Developer, Coding Mentor, Hackathon Winner, Full-Stack Builder. Explore tutorials, projects, and resources on HTML, CSS, JavaScript, Python, AI, and more.">
+    <meta name="keywords" content="Gantavya Bansal, MERN Developer, Gen AI, Coding Mentor, Hackathon Winner, Full Stack Developer, HTML, CSS, JavaScript, Python, AI, Next.js, NestJS, PostgreSQL, Tutorials, Projects, Web Development, Machine Learning, Community, Mentor, Tech Stack, Portfolio, Open Source, India, E-Bazar, ARIES, DeepLearning.AI, Meta, Google, DSA, GitHub, Coding, Programming, Software Engineer, DigitalOcean, AWS, Cloud, FastAPI, Django, React, Node.js, TypeScript, Bash, PowerShell, Prisma, Supabase, Notion, Jira, Dribbble, Canva, Figma, NumPy, Pandas, Matplotlib, Cisco, Postman, Power BI">
+    <meta name="author" content="Gantavya Bansal">
+    <meta property="og:title" content="Gantavya Bansal | MERN & Gen AI Developer, Coding Mentor">
+    <meta property="og:description" content="Explore Gantavya Bansal's portfolio: MERN & Gen AI Developer, Coding Mentor, Hackathon Winner, Full-Stack Builder. Discover projects, tutorials, and resources.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://github.com/bgantavya">
+    <meta property="og:image" content="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Gantavya Bansal | MERN & Gen AI Developer, Coding Mentor">
+    <meta name="twitter:description" content="Explore Gantavya Bansal's portfolio: MERN & Gen AI Developer, Coding Mentor, Hackathon Winner, Full-Stack Builder. Discover projects, tutorials, and resources.">
+    <meta name="twitter:image" content="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+</head>
+
 <!-- Profile Header -->
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bgantavya&theme=transparent&hide_border=true&short_numbers=true&mode=weekly" alt="updated nov 24" />
-</p>
 <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> Gantavya Bansal
 </h1>
@@ -11,6 +26,9 @@
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=006AFF&center=true&vCenter=true&lines=Building+Tech+for+Good;Mentoring+Global+Coders;AI+for+Everyone;Let%E2%80%99s+Innovate+Together!;!!Contact+Now!!" alt="Typing SVG" />
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bgantavya&theme=transparent&hide_border=true&short_numbers=true&mode=weekly" alt="updated nov 24" />
 </p>
 
 <!-- Quick Info -->
@@ -106,8 +124,8 @@
     <a href="https://bgantavya.github.io/StyleSync">
         <img src="https://img.shields.io/badge/StyleSync-Outfit%20Recommender-ff69b4?style=for-the-badge&logo=css3" />
     </a>
-    <img src="https://img.shields.io/badge/FireWatch%20AI-ML%20Fire%20Detection-orange?style=for-the-badge&logo=python" />
-    <img src="https://img.shields.io/badge/NutriNudge-AI%20Diet%20Coach-00c853?style=for-the-badge&logo=fastapi" />
+    <!-- <img src="https://img.shields.io/badge/FireWatch%20AI-ML%20Fire%20Detection-orange?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/NutriNudge-AI%20Diet%20Coach-00c853?style=for-the-badge&logo=fastapi" /> -->
 </p>
 <p align="center">
     <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/>
@@ -131,4 +149,3 @@
 </p>
 
 ---
-<meta name="google-site-verification" content="miiaH5N-skq5mbEKPlyaSX-IRtDCW6wt_SnIjKbsYYY" />
