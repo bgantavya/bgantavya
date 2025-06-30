@@ -101,6 +101,7 @@
 </p>
 
 <!-- About -->
+<!--
 <h2 align="center">👋 About Me</h2>
 <p align="center">
     <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
@@ -114,7 +115,7 @@
     <li>🚀 <b>Full-Stack Builder</b>: Next.js, NestJS, PostgreSQL, GenAI.</li>
 </ul>
 </p>
-
+-->
 <!-- Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
