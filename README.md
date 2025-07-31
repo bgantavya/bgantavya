@@ -1,21 +1,5 @@
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="miiaH5N-skq5mbEKPlyaSX-IRtDCW6wt_SnIjKbsYYY">
-    <meta name="description" content="Gantavya Bansal - MERN & Gen AI Developer, Coding Mentor, Hackathon Winner, Full-Stack Builder. Explore tutorials, projects, and resources on HTML, CSS, JavaScript, Python, AI, and more.">
-    <meta name="keywords" content="Gantavya Bansal, MERN Developer, Gen AI, Coding Mentor, Hackathon Winner, Full Stack Developer, HTML, CSS, JavaScript, Python, AI, Next.js, NestJS, PostgreSQL, Tutorials, Projects, Web Development, Machine Learning, Community, Mentor, Tech Stack, Portfolio, Open Source, India, E-Bazar, ARIES, DeepLearning.AI, Meta, Google, DSA, GitHub, Coding, Programming, Software Engineer, DigitalOcean, AWS, Cloud, FastAPI, Django, React, Node.js, TypeScript, Bash, PowerShell, Prisma, Supabase, Notion, Jira, Dribbble, Canva, Figma, NumPy, Pandas, Matplotlib, Cisco, Postman, Power BI">
-    <meta name="author" content="Gantavya Bansal">
-    <meta property="og:title" content="Gantavya Bansal | MERN & Gen AI Developer, Coding Mentor">
-    <meta property="og:description" content="Explore Gantavya Bansal's portfolio: MERN & Gen AI Developer, Coding Mentor, Hackathon Winner, Full-Stack Builder. Discover projects, tutorials, and resources.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://github.com/bgantavya">
-    <meta property="og:image" content="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Gantavya Bansal | MERN & Gen AI Developer, Coding Mentor">
-    <meta name="twitter:description" content="Explore Gantavya Bansal's portfolio: MERN & Gen AI Developer, Coding Mentor, Hackathon Winner, Full-Stack Builder. Discover projects, tutorials, and resources.">
-    <meta name="twitter:image" content="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
-</head>
 
+---
 <!-- Profile Header -->
 <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> Gantavya Bansal
@@ -28,7 +12,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=006AFF&center=true&vCenter=true&lines=Building+Tech+for+Good;Mentoring+Global+Coders;AI+for+Everyone;Let%E2%80%99s+Innovate+Together!;!!Contact+Now!!" alt="Typing SVG" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bgantavya&theme=transparent&hide_border=true&short_numbers=true&mode=weekly" alt="updated nov 24" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bgantavya&theme=transparent&hide_border=true&short_numbers=true&mode=weekly" alt="updated nov 24" />
 </p>
 
 <!-- Quick Info -->
@@ -41,7 +25,7 @@
             <img src="https://img.shields.io/badge/B.Tech%20CSE-GLA%20University`27-blue?style=flat-square" alt="GLA University"/>
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Mentor-AP%20CS%20Students-orange?style=flat-square" alt="Mentor"/>
+            <img src="https://img.shields.io/badge/Mentor-AP%20Computer%20Science-orange?style=flat-square" alt="Mentor"/>
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Location-Braj,%20India-success?style=flat-square" alt="Location"/>
@@ -52,85 +36,12 @@
 ---
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Worked with</h2>
 <p align="center">
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C"/>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white" alt="Markdown"/>
-        <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white" alt="PowerShell"/>
-        <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python"/>
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white" alt="Bash Script"/>
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS"/>
-        <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" alt="Heroku"/>
-        <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=%2300C7B7" alt="Netlify"/>
-        <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel"/>
-        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-        <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white" alt="DigitalOcean"/>
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white" alt="Django"/>
-        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS"/>
-        <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="Next JS"/>
-        <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white" alt="NestJS"/>
-        <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white" alt="NPM"/>
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white" alt="Vite"/>
-        <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white" alt="Nginx"/>
-        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="Postgres"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white" alt="Supabase"/>
-        <img src="https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white" alt="Prisma"/>
-        <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white" alt="Adobe"/>
-        <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom"/>
-        <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white" alt="Dribbble"/>
-        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" alt="Canva"/>
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma"/>
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="NumPy"/>
-        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas"/>
-        <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black" alt="Cisco"/>
-        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" alt="Notion"/>
-        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white" alt="Jira"/>
-        <img src="https://img.shields.io/badge/OpenSea-%232081E2.svg?style=plastic&logo=opensea&logoColor=white" alt="OpenSea"/>
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman"/>
-        <img src="https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI"/>
+    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat&logo=fortran&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat&logo=glitch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=flat&logo=esbuild&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=flat&logo=SemanticUIReact&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat&logo=travis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=flat&logo=Airbnb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat&logo=openapiinitiative&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=flat&logo=Uber&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+    
 </p>
 
-<!-- About -->
-<!--
-<h2 align="center">👋 About Me</h2>
-<p align="center">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
-</p>
-<p align="center">
-<ul style="list-style: none; padding: 0;">
-    <li>🥇 <b>Hackathon Winner</b>: Hack-D-Py, 3rd place.</li>
-    <li>🛰️ <b>Researcher</b>: ARIES, tech meets discovery.</li>
-    <li>🧠 <b>AI Certified</b>: Meta, Google, DeepLearning.AI.</li>
-    <li>🌍 <b>Community Driver</b>: E-Bazar, 8K+ learners, DSA-a-thons.</li>
-    <li>🚀 <b>Full-Stack Builder</b>: Next.js, NestJS, PostgreSQL, GenAI.</li>
-</ul>
-</p>
--->
-<!-- Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">
-    <a href="https://merobraj.org/braj">
-        <img src="https://img.shields.io/badge/MeroBraj.org-GenAI%20Spiritual%20Platform-blueviolet?style=for-the-badge&logo=react" />
-    </a>
-    <a href="https://bgantavya.github.io/StyleSync">
-        <img src="https://img.shields.io/badge/StyleSync-Outfit%20Recommender-ff69b4?style=for-the-badge&logo=css3" />
-    </a>
-    <!-- <img src="https://img.shields.io/badge/FireWatch%20AI-ML%20Fire%20Detection-orange?style=for-the-badge&logo=python" />
-    <img src="https://img.shields.io/badge/NutriNudge-AI%20Diet%20Coach-00c853?style=for-the-badge&logo=fastapi" /> -->
-</p>
-<p align="center">
-    <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/>
-</p>
 
 <!-- GitHub Stats & Trophies -->
 <h2 align="center">📊 GitHub Stats</h2>
