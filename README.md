@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=006AFF&center=true&vCenter=true&lines=Building+Tech+for+Good;Mentoring+Global+Coders;AI+for+Everyone;Let%E2%80%99s+Innovate+Together!;!!Contact+Now!!" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:gantavyaoo@gmail.com">
     <img src="https://img.shields.io/badge/📩 Contact-blue?style=for-the-badge" alt="Contact" />
   </a>
 </p>
