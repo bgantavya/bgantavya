@@ -1,119 +1,59 @@
-<h1 align="center">🚀 Gantavya Bansal | Full-Stack Dev & AP CS Mentor</h1>
-<p align="center">Empowering tech, tutoring with impact, and building a better Braj—one line of code at a time.</p>
+
+<!-- Profile Header -->
+<h1 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> Gantavya Bansal
+</h1>
+<p align="center">
+    <b>AI + Full-stack Software Engineer 🚀 | Coding Mentor 👨‍🏫 </b><br>
+    <i>Code. Impact. Inspire.</i>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=006AFF&center=true&vCenter=true&lines=Building+Tech+for+Good;Mentoring+Global+Coders;AI+for+Everyone;Let%E2%80%99s+Innovate+Together!;!!Contact+Now!!" alt="Typing SVG" />
+</p>
+<p align="center">
+  <a href="mailto:gantavyaoo@gmail.com">
+    <img src="https://img.shields.io/badge/📩 Contact-blue?style=for-the-badge" alt="Contact" />
+  </a>
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=bgantavya&theme=transparent&hide_border=true&short_numbers=true" alt="updated nov 24" />
+</p>
+
+<!-- Quick Info -->
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://komarev.com/ghpvc/?username=bgantavya&label=Profile+views&color=red&style=flat" alt="Profile views"/>
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/B.Tech%20CSE-GLA%20University`27-blue?style=flat-square" alt="GLA University"/>
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Mentor-AP%20Computer%20Science-orange?style=flat-square" alt="Mentor"/>
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Location-Braj,%20India-success?style=flat-square" alt="Location"/>
+        </td>
+    </tr>
+</table>
+
+
+<!-- GitHub Stats & Trophies -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=bgantavya&theme=matrix&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=bgantavya&theme=transparent&show_icons=true&hide_border=true&count_private=true" width="55%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgantavya&theme=transparent&hide_border=true&layout=compact" width="42%" />
+</p>
+
+<h2 align="center">🎯 Let's Build the Future!</h2>
+<p align="center">
+    <b>Have an idea? Need a mentor? Want to collaborate?</b><br>
+    <i>DM me. Let’s create tech that matters.</i>
+    <br>
+    <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300"/>
+</p>
 
 ---
-
-## 👨‍💻 Who Am I?
-
-🎓 B.Tech CSE @ GLA University  
-🧠 Developer • Educator • Cybersecurity Enthusiast  
-🌍 Building real-world impact through tech & teaching  
-
-
-
-📍 Currently mentoring U.S. students in AP Computer Science
-
-
-
-
-
-
-
-
-
----
-
-## 🔧 Tech Stack at a Glance
-
-![Languages](https://skillicons.dev/icons?i=py,java,c,js,html,css,sql)  
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,django,mongodb,mysql)  
-![Tools](https://skillicons.dev/icons?i=git,figma,postman,vscode,selenium,heroku)
-
-
-
----
-
-
-
-
-
-
-
-
-
-## 🧠 What I Do Best
-
-- 👨‍🏫 **Mentor** 100+ AP CS students globally with 90%+ success rate
-@@ -31,54 +49,60 @@
-
----
-
-
-
-## 🚧 Featured Projects
-
-### 🔮 [MeroBraj.org](https://merobraj.org/braj)
-> A GenAI-based spiritual community platform powered by Express.js + React.js  
-
-
-
-> 🔹 Gyroscope navigation | 🗺️ Region mapping | 🚀 Lazy-loading for speed
-
-
-### 👚 [StyleSync](https://bgantavya.github.io/StyleSync)
-> A fun outfit recommender based on personality traits  
-
-
-
-> 🔸 Built using HTML, CSS, JS | 🎨 Styled for self-expression
-
-
-### 🔥 FireWatch AI
-> ML-powered fire detection via video feed  
-
-
-
-> 🔍 Classifies severity | 🚨 Recommends safety measures
-
-
-### 🧠 NutriNudge (Odoo Hackathon Top 10%)
-> Full-stack AI diet coach web app  
-> 💬 AI Chat | 🔐 Auth System | 🤖 Automated tracking
-
----
-
-## 🏆 Highlights
-
-- 🥇 3rd Place – Hack-D-Py Coding Sprint
-- 🛰️ Invited for Research Visit @ ARIES
-- 🧩 Organized 10+ DSA-a-thons | Impacted 8000+ learners
-- 🧠 Meta | Google | DeepLearning.AI Certified
-- 🌐 Built E-Bazar to support local businesses in Braj
-
----
-
-## 📬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/gantavya-bansal)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=flat-square)](https://github.com/bgantavya)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:Gantavyaoo@gmail.com)
-
----
-
-## 🤹 Fun Fact
-
-🧪 I write bug-free code… until I run it.  
-
-🧠 Learning advanced Bash, AI, and eating frameworks for breakfast.
-
----
-
-## 🎯 Let's Build Together!
-Have a project idea? Need a coding mentor?  
-Or just want to vibe with another dev who appreciates a good GIF?  
-
-
-
-**Reach out. Collaborate. Let's create impact.**
-
-![Code Together](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
