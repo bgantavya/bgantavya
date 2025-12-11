@@ -73,23 +73,23 @@
 
 ### 🔹 **TradeItUp – Algorithmic Trading System**
 
-* ✔ 20-year backtest
-* ✔ **15× growth outperforming NIFTY50**
-* ✔ Position sizing, risk controls, execution automation
-* ✔ Live trading PnL: **+10.2% in 30 days during high volatility**
+* 20-year backtest
+* **15× growth outperforming NIFTY50**
+* Position sizing, risk controls, execution automation
+* Live trading PnL: **+10.2% in 30 days during high volatility**
 
 ### 🔹 **devDocs – AI Documentation CLI (PyPI)**
 
-* ✔ Auto-generates project documentation using LLM
-* ✔ 100+ installs
-* ✔ 80 req/min optimized pipeline
+* Auto-generates project documentation using LLM
+* 100+ installs
+* 80 req/min optimized pipeline
 
 ### 🔹 **Virtual Braj Museum (MeroBraj.org)**
 
-* ✔ 360° VR temples
-* ✔ University data-center deployment
-* ✔ 4-member team lead
-* ✔ Awarded **INR 50,000 innovation grant**
+* 360° VR temples
+* University data-center deployment
+* 4-member team lead
+* Awarded **INR 50,000 innovation grant**
 
 ## 📊 **GitHub Analytics**
 
