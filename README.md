@@ -90,7 +90,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bgantavya&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgantavya&layout=compact&theme=transparent&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgantavya&layout=compact&theme=transparent&hide_border=true&hide=html,css" width="40%" />
 </p>
 
 ## 🧩 **Fun Facts** 
