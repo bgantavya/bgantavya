@@ -1,112 +1,51 @@
-# ⭐ **Gantavya Bansal – Software Engineer | Quantitative Research**
+
+<h1 align="center">Hi 👋, I'm GANTAVYA BANSAL</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=006AFF&center=true&vCenter=true&width=600&lines=Building+AI+Tools+%26+Dev+Automation;Full-Stack+Software+Engineering;Quant+Systems+%26+Low-Latency+Learner;Mentoring+Global+Students;Open-Source+Contributor;Let's+Create+Impactful+Tech+Together!" />
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgantavya&theme=transparent&hide_border=true&mode=weekly" alt="bgantavya" />
 </p>
 
 <p align="center">
-  <b>Software Developer ⚡ | Full-Stack AI Engineer 🌐 | Coding Mentor 👨‍🏫 | Quant Systems Learner 📈</b><br>
-  <i>I build systems that scale, automate, and make lives easier.</i>
+  Welcome to my lab. 🧪 I engineer systems that <b>think</b>, <b>trade</b>, and <b>perform</b>. <br>
+  Currently refactoring enterprise scale and mapping Heritages in <i>VR</i>. <br>
+  <i>I solve problems that others haven't even found yet.</i>
+
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Building+AI+Tools+%26+Dev+Automation;Full-Stack+Engineer;Quant+Systems+%26+Low-Latency+Learner;Mentoring+Global+Students;Open-Source+Contributor;Let's+Create+Impactful+Tech+Together!" />
-</p>
-
-<p align="center">
+<div align="center"> 
+  <a href="https://linkedin.com/in/bgantavya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://gantavya.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank">
+  </a>
   <a href="mailto:gantavyaoo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Now-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://linkedin.com/in/bgantavya">
-    <img src="https://img.shields.io/badge/LinkedIn-Gantavya%20Bansal-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://gantavya.me">
-    <img src="https://img.shields.io/badge/Portfolio-Gantavya.me-brightgreen?style=for-the-badge&logo=googlechrome">
-  </a>
-</p>
+</div>
 
-## 🚀 **About Me**
+## 💻 Tech
+- **Algorithmic Finance:** Engineering high-performance backtesting engines and alpha strategies (15x growth) using C++ & Python.
+- **Agentic AI & Tooling:** Building autonomous workflow agents (*Stuti*) and PyPI-published developer CLIs (*devDocs*) to automate the mundane.
+- **Spatial Computing:** Preserving heritage through immersive WebAR/VR experiences (*Virtual Braj*) using Three.js and 3D mapping.
 
-* 🎓 **B.Tech CSE @ GLA University (2027)**
-* 💼 **CURRENT: Software Engineering Intern @ Devslane**
-* 📉 Quant Enthusiast (C++, market microstructure, strategy design)
-* 🛠️ Built **20+ projects**, published **1 PyPI package**, contributed to AI tools
+## 🏆 Highlights
+- **MeroBraj:** Directed a **grant-funded VR initiative** to digitize 100+ cultural sites; platform acquired.
+- **TradeItUp (Quant):** Engineered an algorithmic trading system achieving 15× capital appreciation (1500% return) in a 20-year backtest.
+- **devDocs (PyPI):** Authored an **AI-native CLI** that recursively indexes codebases to auto-generate documentation.
 
-## 🏆 **Key Highlights**
+<!-- <h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgantavya&langs_count=8&theme=transparent&hide_border=true&hide=html,css" alt="bgantavya" />
 
-* 🔥 Built **TradeItUp**, a trading research system → *15× growth on 20-year backtest*
-* ⚙️ Developed **devDocs (PyPI)** → 100+ downloads
-* 🌐 Led **Virtual Braj Museum** project 
-* 🚀 Engineered key modules for **Vidhi 7.0**
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bgantavya&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="bgantavya" /></p> -->
 
-## ⚡ **Tech Stack**
+## 📈 Stats
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bgantavya&theme=transparent"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgantavya&theme=transparent&exclude=html"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgantavya&theme=transparent"/>
+</div>
 
-### **Languages**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,bash,sql" />
-</p>
-
-### **Frameworks & Tools**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,express,redux,postgres,mongodb,redis,linux,git,aws,docker" />
-</p>
-
-### **Quant & Data**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-<br>
-  <b>NumPy • Pandas • Scikit-learn • Probability • Statistics • Time-Series • Backtesting • Market Microstructure • TradingView Pine Script</b>
-</p>
-
-## 📌 **Featured Projects**
-
-### 🔹 **TradeItUp – Algorithmic Trading System**
-
-* 20-year backtest - **15× growth outperforming NIFTY50**
-* Position sizing, risk controls, execution automation
-* Live trading PnL: **+10.2% in 30 days during high volatility**
-
-### 🔹 **devDocs – AI Documentation CLI (PyPI)**
-
-* Auto-generates project documentation using LLM
-* 100+ installs
-
-### 🔹 **Virtual Braj Museum (MeroBraj.org)**
-
-* 360° VR temples
-* 4-member team lead
-
-## 📊 **GitHub Analytics**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bgantavya&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bgantavya&theme=transparent&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bgantavya&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgantavya&layout=compact&theme=transparent&hide_border=true&hide=html,css" width="40%" />
-</p>
-
-## 🧩 **Fun Facts** 
-* I break things just to fix them better ⚙️
-* I write code, teach code, and dream code 💭
-* Coffee → Code → Impact ☕💻🔥
-
-## 🎯 **Let's Build the Future**
-
-<p align="center">
-  <b>Have an idea? Want to collaborate? Need a mentor?</b><br>
-  <i>I love building systems, tools, and products that make a difference.</i><br>
-  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300"/>
-</p>
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
