@@ -4,7 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=006AFF&center=true&vCenter=true&width=600&lines=Building+AI+Tools+%26+Dev+Automation;Full-Stack+Software+Engineering;Quant+Systems+%26+Low-Latency+Learner;Mentoring+Global+Students;Open-Source+Contributor;Let's+Create+Impactful+Tech+Together!" />
 
-  <img align="center" src="https://streak-stats.demolab.com?user=bgantavya&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="bgantavya" />
+
+<img align="center" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=bgantavya&theme=transparent&hide_border=true&mode=weekly" alt="" />
 </p>
 
 <p align="center">
