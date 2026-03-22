@@ -27,15 +27,9 @@
   </a>
 </div>
 
-## 💻 Tech
-- **Algorithmic Finance:** Engineering high-performance backtesting engines and alpha strategies (15x growth) using C++ & Python.
-- **Agentic AI & Tooling:** Building autonomous workflow agents (*Stuti*) and PyPI-published developer CLIs (*devDocs*) to automate the mundane.
-- **Spatial Computing:** Preserving heritage through immersive WebAR/VR experiences (*Virtual Braj*) using Three.js and 3D mapping.
+- **Algorithmic Finance (TradeItUp):** Engineered a high-performance C++/Python algorithmic trading system, achieving 15× capital appreciation (1500% return) in a 20-year backtest.
+- **Spatial Computing (MeroBraj):** Directed a grant-funded, acquired WebAR/VR initiative using Three.js and 3D mapping to digitally preserve 100+ cultural heritage sites. 
 
-## 🏆 Highlights
-- **MeroBraj:** Directed a **grant-funded VR initiative** to digitize 100+ cultural sites; platform acquired.
-- **TradeItUp (Quant):** Engineered an algorithmic trading system achieving 15× capital appreciation (1500% return) in a 20-year backtest.
-- **devDocs (PyPI):** Authored an **AI-native CLI** that recursively indexes codebases to auto-generate documentation.
 
 <!-- <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgantavya&langs_count=8&theme=transparent&hide_border=true&hide=html,css" alt="bgantavya" />
