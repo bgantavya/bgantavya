@@ -1,46 +1,54 @@
-
-<h1 align="center">Hi 👋, I'm GANTAVYA BANSAL</h1>
+<h1 align="center">Hey, I'm Gantavya 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=006AFF&center=true&vCenter=true&width=600&lines=Building+AI+Tools+%26+Dev+Automation;Full-Stack+Software+Engineering;Quant+Systems+%26+Low-Latency+Learner;Mentoring+Global+Students;Open-Source+Contributor;Let's+Create+Impactful+Tech+Together!" />
-
-
-<img align="center" src="https://github-readme-streak-stats-vijaypur.vercel.app?user=bgantavya&theme=transparent&hide_border=true&mode=weekly" alt="" />
+  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=bgantavya&theme=transparent&hide_border=true&mode=weekly"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=006AFF&center=true&vCenter=true&width=600&lines=AI+Systems+%26+Dev+Automation;Quant+%7C+Full-Stack+%7C+Low-Level;Building+Tools+That+Think;Open+Source+%7C+Teaching+%7C+Shipping" />
 </p>
 
 <p align="center">
-  Welcome to my lab. 🧪 I engineer systems that <b>think</b>, <b>trade</b>, and <b>perform</b>. <br>
-  Currently refactoring enterprise scale and mapping Heritages in <i>VR</i>. <br>
-  <i>I solve problems that others haven't even found yet.</i>
-
+  I build systems that <b>think</b>, <b>trade</b>, and <b>scale</b>. Welcome to the lab. 🧪
 </p>
 
-<div align="center"> 
-  <a href="https://linkedin.com/in/bgantavya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://gantavya.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:gantavyaoo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/bgantavya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://gantavya.me"><img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:gantavyaoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-- **Algorithmic Finance (TradeItUp):** Engineered a high-performance C++/Python algorithmic trading system, achieving 15× capital appreciation (1500% return) in a 20-year backtest.
-- **Spatial Computing (MeroBraj):** Directed a grant-funded, acquired WebAR/VR initiative using Three.js and 3D mapping to digitally preserve 100+ cultural heritage sites. 
+---
 
+### 🔨 Currently Shipping
 
-<!-- <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgantavya&langs_count=8&theme=transparent&hide_border=true&hide=html,css" alt="bgantavya" />
+| Project | What it does |
+|--------|-------------|
+| **[stuti.ai](https://github.com/bgantavya/stuti.ai)** | Autonomous machine assist |
+| **[FinSynth](https://github.com/bgantavya/FinSynth)** | Synthetic intelligence for real-world alpha |
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bgantavya&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="bgantavya" /></p> -->
+### 📦 Open Source Packages
+```bash
+npm install dts-tracer   # Distributed systems tracing
+pip install devDocs      # Agentic docs builder — write once, ship everywhere
+```
 
-## 📈 Stats
+**[→ dts-tracer](https://www.npmjs.com/package/dts-tracer)** · **[→ devDocs](https://pypi.org/project/devDocs/)**
+
+### 📚 Study Material
+
+> Built for engineers, STEM kids, and curious minds.
+
+- **[dWebTech](https://github.com/bgantavya/dWebTech)** — Web engineering, ground up
+- **[python-mastery](https://github.com/bgantavya/Python-Mastery)** — Python for non-tech grads & STEM students
+- **[oopsItsDsa](https://github.com/bgantavya/oopsItsDsa)** — DSA · Algorithms · Low-level concepts · Interview prep
+
+---
+
+### 📈 Stats
+
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bgantavya&theme=transparent"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgantavya&theme=transparent&exclude=html"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgantavya&theme=transparent"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bgantavya&theme=transparent"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgantavya&theme=transparent&exclude=html"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgantavya&theme=transparent"/>
+  <img align="right" width="90%" src="https://trophy.ryglcloud.net/?username=bgantavya&rank=-C&no-bg=true&no-frame=true"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
