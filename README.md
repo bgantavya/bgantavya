@@ -45,7 +45,7 @@ pip install devDocs      # Agentic docs builder — write once, ship everywhere
 ### 📈 Stats
 
 <div align="center">
-  <img align="right" src="https://trophy.ryglcloud.net/?username=bgantavya&rank=-C&no-bg=true&no-frame=true"/>
+  <img align="right"  widht="100%" src="https://trophy.ryglcloud.net/?username=bgantavya&theme=transparent&rank=-C&no-bg=true&no-frame=true"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bgantavya&theme=transparent"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgantavya&theme=transparent&exclude=html"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgantavya&theme=transparent"/>
