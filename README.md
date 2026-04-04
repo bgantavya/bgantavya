@@ -24,7 +24,7 @@
 | **[stuti.ai](https://github.com/bgantavya/stuti.ai)** | Autonomous machine assist |
 | **[FinSynth](https://github.com/bgantavya/FinSynth)** | Synthetic intelligence for real-world alpha |
 
-### 📦 Open Source Packages
+### 📦 Open Scoped Packages
 ```bash
 npm install dts-tracer   # Distributed systems tracing
 pip install devDocs      # Agentic docs builder — write once, ship everywhere
