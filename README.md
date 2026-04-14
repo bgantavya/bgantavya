@@ -1,12 +1,13 @@
 <h1 align="center">Hey, I'm Gantavya 👾</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=bgantavya&theme=transparent&hide_border=true&mode=weekly"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=006AFF&center=true&vCenter=true&width=600&lines=AI+Systems+%26+Dev+Automation;Quant+%7C+Full-Stack+%7C+Low-Level;Building+Tools+That+Think;Open+Source+%7C+Teaching+%7C+Shipping" />
+  <br/>
+  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=bgantavya&theme=transparent&hide_border=true&mode=weekly"/>
 </p>
 
 <p align="center">
-  I build systems that <b>think</b>, <b>trade</b>, and <b>scale</b>. Welcome to the lab. 🧪
+  Systems that <b>think</b>. Code that <b>trades</b>. Tools that <b>scale</b>. Welcome to the lab. 🧪
 </p>
 
 <p align="center">
@@ -14,6 +15,12 @@
   <a href="https://gantavya.me"><img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:gantavyaoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+### 🌍 Beyond Terminal
+
+I Explore - Hidden places, Local food, Unmarked trails. <br>
+I hike, camp, & walk until my knees gives 404. <br>
+I interact with humans and capture the wild. <br>
 
 ---
 
@@ -24,13 +31,13 @@
 | **[stuti.ai](https://github.com/bgantavya/stuti.ai)** | Autonomous machine assist |
 | **[FinSynth](https://github.com/bgantavya/FinSynth)** | Synthetic intelligence for real-world alpha |
 
+
 ### 📦 Open Scoped Packages
+
 ```bash
 npm install dts-tracer   # Distributed systems tracing
 pip install devDocs      # Agentic docs builder — write once, ship everywhere
 ```
-
-**[→ dts-tracer](https://www.npmjs.com/package/dts-tracer)** · **[→ devDocs](https://pypi.org/project/devDocs/)**
 
 ### 📚 Study Material
 
@@ -45,7 +52,7 @@ pip install devDocs      # Agentic docs builder — write once, ship everywhere
 ### 📈 Stats
 
 <div align="center">
-  <img align="right"  widht="100%" src="https://trophy.ryglcloud.net/?username=bgantavya&theme=transparent&rank=-C&no-bg=true&no-frame=true"/>
+  <img width="100%" align="right" src="https://trophy.ryglcloud.net/?username=bgantavya&theme=transparent&rank=-C&no-bg=true&no-frame=true"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bgantavya&theme=transparent"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bgantavya&theme=transparent&exclude=html"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bgantavya&theme=transparent"/>
