@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Gantavya 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=006AFF&center=true&vCenter=true&width=600&lines=AI+Systems+%26+Dev+Automation;Quant+%7C+Full-Stack+%7C+Low-Level;Building+Tools+That+Think;Open+Source+%7C+Teaching+%7C+Shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;duration=2000&amp;pause=500&amp;color=006AFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Quant+%7C+Algorithms+%7C+Low-latency+Solutions;Agentic+Systems+%7C+Workflow+Automations;Front-end+%7C+Back-end+%7C+Database+%7C+DevOps" alt="Typing Tech Stack" />
   <br/>
   <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=bgantavya&theme=transparent&hide_border=true&mode=weekly"/>
 </p>
@@ -16,10 +16,14 @@
   <a href="mailto:gantavyaoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-### 🌍 Beyond Terminal
+> ### Two truths & a lie
+> 1. I 'hacked' 20+ users in 8th grade
+> 2. I highly believe in classroom learning
+> 3. I'm not a polymath; I just have an aggressive learning curve
 
+### 🌍 Beyond Terminal
 I Explore - Hidden places, Local food, Unmarked trails. <br>
-I hike, camp, & walk until my knees gives 404. <br>
+I hike, camp, & walk until my knees give 404. <br>
 I interact with humans and capture the wild. <br>
 
 ---
@@ -33,9 +37,10 @@ I interact with humans and capture the wild. <br>
 
 
 ### 📦 Open Scoped Packages
-
+[![devDocs Downloads](https://img.shields.io/pepy/dt/devDocs?logo=pypi&logoColor=white&label=devDocs&labelColor=blue)](https://pypi.org/project/devDocs/) 
+[![dts-tracer Downloads](https://img.shields.io/npm/d18m/dts-tracer?logo=npm&logoColor=white&label=dts-tracer&labelColor=red)](https://www.npmjs.com/package/dts-tracer)
 ```bash
-npm install dts-tracer   # Distributed systems tracing
+npm install dts-tracer   # Distributed systems tracing 
 pip install devDocs      # Agentic docs builder — write once, ship everywhere
 ```
 
